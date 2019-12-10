@@ -1,82 +1,23 @@
-gg.alert([[
-PLEASE SUBSCRIBE CHANNEL YOUTUBE IVANSYAH GAMING UNTUK UPDATE SETIAP HARI SCRIPT MOBILE LEGENDS]], "DONE")
+gg.alert("🤡🤡 EnjoyInWorld\n🤡🤡 Mobile Legend Attackers\n🤡🤡 Happy Chiter 🤡🤡","🤡🤡 W E L L C O M E 🤡🤡")
 
-Date = "20191212"
+Date = "20191216"
 date = os.date("%Y%m%d")
 if date >= Date then
-  print([[== SCRIPT EXPIRED ==
+  print([[== EROR KONTAK ADMIN BENNY ZILVERS==
   
-DOWNLOAD SCRIPT NEW VERSION (TERBARU) TO CHANNEL => IVANSYAH GAMING]])
+NEW VERSION (TERBARU) Kontak Benny Zilvers]])
   return
   end
 
 gg.setVisible(false)
-gg.toast("S")
-gg.sleep(100)
-gg.toast("SU")
-gg.sleep(100)
-gg.toast("SUB")
-gg.sleep(100)
-gg.toast("SUBS")
-gg.sleep(100)
-gg.toast("SUBSC")
-gg.sleep(100)
-gg.toast("SUBSCR")
-gg.sleep(100)
-gg.toast("SUBSCRI")
-gg.sleep(100)
-gg.toast("SUBSCRIB ")
-gg.sleep(100)
-gg.toast("SUBSCRIBE")
-gg.sleep(100)
-gg.toast("SUBSCRIBE T")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO C")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CH")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHA")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHAN")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANN")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNE")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL I")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IV")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IVA")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IVAN")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IVANS ")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IVANSY")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IVANSYA")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IVANSYAH")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IVANSYAH GAM")
-gg.sleep(100)
-gg.toast("SUBSCRIBE TO CHANNEL IVANSYAH GAMING")
-gg.sleep(100)
-gg.alert("Setting GG, Hide Gameguardian From The Game: Centang 2/3/4, Freeze interval: 0, saved list Updates interval: 1000, limit of the history: 100.000")
-gg.alert(os.date("SCRIPT VIP MOBILE LEGEND V3 PATCH 1.4.28"))
-gg.alert(os.date("SUBSCRIBE TO CHANNEL Ivansyah Gaming"))
+gg.alert(os.date("Thanks For Use Attackerz Indonesia"))
 
 function HOME()
 Z = gg.multiChoice({
 --'Expansion of visual field',
 --'Extended visual field repair(Expansion of field of vision opens incorrect use)',
-"RADAR ON [ IN GAME ]",
-"RADAR OFF [ END GAME ]",
+"RADAR ON [ Didalam Game ]",
+"RADAR OFF [ Ketika Game Berakhir ]",
 "TAB VIEW ON",
 "TAB VIEW OFF",
 "ON   DRONE VIEW [ 2X ]",
@@ -87,7 +28,7 @@ Z = gg.multiChoice({
 "DEMAGE UP 20% [ LOBY ]",
 "LIFESTEAL UP 10% [ LOBY ]",
 '{🔚Exit'},
-  nil, '🆕 SCRIPT VIP V3 PATCH LIGHT BORN BY IVANSYAH GAMING 💞')
+  nil, '👽👽Benny Zilvers\n Mobile Legend Attackers 😋😋')
 if Z == nil then
 
 
@@ -352,14 +293,14 @@ end
 function Exit()
   gg.skipRestoreState()
   gg.setVisible(true)
-  print(os.date("%A, %d %B %Y | \n¨X¨T¨j¨[¨X¨j¨[¨X¨T¨j¨T¨j¨j¨j¨j¨[¨X¨T¨[\n¨U¨^¨g¨U¨U¨U¨^¨g¨^¨g¨X¨g¨X¨g¨U¨^¨g¨T¨g\n¨d¨[¨U¨^¨a¨U¨U¨d¨[¨U¨^¨g¨U¨U¨U¨U¨U¨T¨g\n¨^¨T¨m¨T¨T¨m¨T¨m¨T¨m¨T¨m¨a¨^¨m¨T¨m¨T¨a\n👉CHANNEL MOBILE HACKER👈"))
+  print(os.date("%A, %d %B %Y | \n¨X¨T¨j¨[¨X¨j¨[¨X¨T¨j¨T¨j¨j¨j¨j¨[¨X¨T¨[\n¨U¨^¨g¨U¨U¨U¨^¨g¨^¨g¨X¨g¨X¨g¨U¨^¨g¨T¨g\n¨d¨[¨U¨^¨a¨U¨U¨d¨[¨U¨^¨g¨U¨U¨U¨U¨U¨T¨g\n¨^¨T¨m¨T¨T¨m¨T¨m¨T¨m¨T¨m¨a¨^¨m¨T¨m¨T¨a\n👉Mobile Legend Attackers👈"))
   os.exit()
 end
 function d()
   gg.clearList(f)
   gg.skipRestoreState()
   gg.setVisible(true)
-  print(os.date("SUBSCRIBE\n👉Channel Ivansyah Gaming👈"))
+  print(os.date("Indonesia Attackers"))
   os.exit()
 end
 
